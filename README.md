@@ -1,4 +1,4 @@
-# netbox-device-types
+# Netbox Device Types
 
 Sets of CSV files that can be imported via the Web GUI in Netbox.
 
